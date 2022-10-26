@@ -1,0 +1,63 @@
+body{
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    font-family: IM FELL DW Pica, Verdana, sans-serif;
+    width: 100%;
+    height: 300px;
+    background-position: center center;
+    background-repeat:no-repeat;
+    background-size:contain;
+    background-color: rgb(255, 206, 183);
+    align-items: center;
+    text-align: center;
+    align-content: center;
+}
+
+input{
+    margin-top: 10px;
+}
+
+.music{
+    position: absolute;
+    top:350px;
+    text-align: center;
+    flex-direction: column;
+}
+
+.nineteen{
+    background-image: url('img/1989.jpg')
+}
+.evermore{
+    background-image: url('img/evermore.png')
+}
+.fearless{
+    background-image: url('img/fearless.png')
+}
+.fearless-t{
+    background-image: url('img/fearless-t.png')
+}
+.folklore{
+    background-image: url('img/folklore.jpg')
+}
+.lover{
+    background-image: url('img/lover.png')
+}
+.midnights{
+    background-image: url('img/midnights.jpeg')
+}
+.red{
+    background-image: url('img/red.png')
+}
+.red-t{
+    background-image: url('img/red-t.png')
+}
+.reputation{
+    background-image: url('img/reputation.jpg')
+}
+.speak-now{
+    background-image: url('img/speak-now.png')
+}
+.ts{
+    background-image: url('img/ts.jpg')
+}
