@@ -16,7 +16,7 @@ albumForm.addEventListener('submit', function(event){
     else if (albumName === 'red taylors version' || albumName === "red taylor's version" || albumName === "red (taylor's version)" || albumName === "red (taylors version)"){
         document.body.classList.add('red-t');
     }
-    else if (albumName === 'midnights' || albumName === 'midnights 3am edition'){
+    else if (albumName === 'midnights' || albumName === 'midnights 3am edition' || albumName === "midnights (3am edition)"){
         document.body.classList.add('midnights');
     }
     else if (albumName === 'reputation'){
